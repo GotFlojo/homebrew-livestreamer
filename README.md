@@ -2,7 +2,7 @@
 Formula to install [livestreamer](https://github.com/chrippa/livestreamer/tree/master)
 
 ## How do I install these formulae?
-Just `brew install livestreamer`.
+Just `brew tap gotflojo/homebrew-livestreamer` followed by `brew install livestreamer`.
 
 ## Troubleshooting
 First, please run `brew update` (twice) and `brew doctor`.
